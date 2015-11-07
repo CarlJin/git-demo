@@ -4,6 +4,10 @@
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/com/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/com/main/resources"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/com/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/com/test/resources"/>
         <property name="context-root" value="git-demo"/>
         <property name="java-output-path" value="/git-demo/target/classes"/>
     </wb-module>
